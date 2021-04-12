@@ -1,0 +1,16 @@
+E:\repos\testPatterns\MvvmApp1\bin\Debug\MvvmApp1.exe.config
+E:\repos\testPatterns\MvvmApp1\bin\Debug\MvvmApp1.exe
+E:\repos\testPatterns\MvvmApp1\bin\Debug\MvvmApp1.pdb
+E:\repos\testPatterns\MvvmApp1\obj\Debug\MvvmApp1.csprojAssemblyReference.cache
+E:\repos\testPatterns\MvvmApp1\obj\Debug\MainWindow.g.cs
+E:\repos\testPatterns\MvvmApp1\obj\Debug\App.g.cs
+E:\repos\testPatterns\MvvmApp1\obj\Debug\MvvmApp1_MarkupCompile.cache
+E:\repos\testPatterns\MvvmApp1\obj\Debug\MvvmApp1_MarkupCompile.lref
+E:\repos\testPatterns\MvvmApp1\obj\Debug\MainWindow.baml
+E:\repos\testPatterns\MvvmApp1\obj\Debug\MvvmApp1.g.resources
+E:\repos\testPatterns\MvvmApp1\obj\Debug\MvvmApp1.Properties.Resources.resources
+E:\repos\testPatterns\MvvmApp1\obj\Debug\MvvmApp1.csproj.GenerateResource.cache
+E:\repos\testPatterns\MvvmApp1\obj\Debug\MvvmApp1.csproj.CoreCompileInputs.cache
+E:\repos\testPatterns\MvvmApp1\obj\Debug\MvvmApp1.exe
+E:\repos\testPatterns\MvvmApp1\obj\Debug\MvvmApp1.pdb
+E:\repos\testPatterns\MvvmApp1\obj\Debug\App.baml
